@@ -17,6 +17,7 @@ checaIdade(20)
  .catch(function() {
  console.log("Menor que 18");
  });
+ 
 2º exercício
 Crie uma tela com um <input> que deve receber o nome de um usuário no Github. Após digitar o
 nome do usuário e clicar no botão buscar a aplicação deve buscar pela API do Github (conforme
@@ -33,6 +34,7 @@ Depois de preencher o input e adicionar, a seguinte lista deve aparecer abaixo:
  <li>repo4</li>
  <li>repo5</li>
 </ul>
+
 3º exercício
 A partir do resultado do exemplo anterior adicione um indicador de carregamento em tela no lugar
 da lista apenas enquanto a requisição estiver acontecendo:
