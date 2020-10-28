@@ -41,3 +41,5 @@ da lista apenas enquanto a requisição estiver acontecendo:
 <li>Carregando...</li>
 Além disso, adicione uma mensagem de erro em tela caso o usuário no Github não exista.
 Dica: Quando o usuário não existe, a requisição irá cair no .catch com código de erro 404
+
+Can check the final result at https://sad-lalande-5cee84.netlify.app/
