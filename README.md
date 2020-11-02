@@ -1,4 +1,4 @@
-# RSStartarterJS
+# RocketSeat StarterJS
 Challenges from the Starter Javascript course at Rocketseat
 
 
